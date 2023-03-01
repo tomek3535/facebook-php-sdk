@@ -1,9 +1,9 @@
 {
-	"name": "janu-software/facebook-php-sdk",
+	"name": "tomek3535/facebook-php-sdk",
 	"description": "Alternative toolkit for Facebook Graph API",
 	"keywords": ["facebook", "sdk", "graph"],
 	"type": "library",
-	"homepage": "https://github.com/janu-software/facebook-php-sdk",
+	"homepage": "https://github.com/tomek3535/facebook-php-sdk",
 	"license": "proprietary",
 	"authors": [
 		{
